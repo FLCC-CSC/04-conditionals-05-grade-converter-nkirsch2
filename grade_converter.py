@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+the computer grading systems often look for a perfect string match if your output adds an extra space misses a period or uses a diffferent capital letter the autograder flags it as incorrect 
 
 
 
